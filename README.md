@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Rex D. Espina and I’m just your typical full stack developer with nothing to prove. On this page you will find all of the repositories that I created or was one of the developer. 
+
 <!--
 **Rexespina-cmd/Rexespina-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
